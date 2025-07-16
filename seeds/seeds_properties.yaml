@@ -1,0 +1,6 @@
+seeds:
+  - name: "cnt_tele_codes"
+    config:
+      full_refresh: true
+      column_types:
+        Telephone_Code: varchar(10)

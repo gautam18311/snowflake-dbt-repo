@@ -1,0 +1,7 @@
+name: "Analytics"
+model-paths: ["models"]
+models:
+  materialized: 'table'
+seed-paths: ['seeds']
+snapshot-paths: ['snapshots']
+  

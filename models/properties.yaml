@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: sri_src
+    database: forsake
+    schema: example
+    tables:
+      - name: employee
+      - name: dim_sales
+      - name: scd
